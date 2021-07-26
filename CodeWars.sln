@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Highest and Lowest (7 kyu)", "Highest and Lowest (7 kyu)\Highest and Lowest (7 kyu).csproj", "{151D178F-E448-4E43-9318-AD3EB646E86D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Highest and Lowest (8)", "Highest and Lowest (7 kyu)\Highest and Lowest (8).csproj", "{151D178F-E448-4E43-9318-AD3EB646E86D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer Errors", "Printer Errors\Printer Errors.csproj", "{CA4F65AD-141D-4ACD-A5E2-C396296DDB11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Printer Errors(8)", "Printer Errors\Printer Errors(8).csproj", "{CA4F65AD-141D-4ACD-A5E2-C396296DDB11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is this a triangle", "Is this a triangle\Is this a triangle.csproj", "{407DF591-DD7C-45C4-9CA1-38C7C9F85979}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is this a triangle(8)", "Is this a triangle\Is this a triangle(8).csproj", "{407DF591-DD7C-45C4-9CA1-38C7C9F85979}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mumbling", "Mumbling\Mumbling.csproj", "{2B428509-B8FB-49DA-8C0B-BC537D57389F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mumbling(8)", "Mumbling\Mumbling(8).csproj", "{2B428509-B8FB-49DA-8C0B-BC537D57389F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detect Pangram", "Detect Pangram\Detect Pangram.csproj", "{DF594D39-BF80-4120-8BFB-1F9C1C3F9439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detect Pangram(8)", "Detect Pangram\Detect Pangram(8).csproj", "{DF594D39-BF80-4120-8BFB-1F9C1C3F9439}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
